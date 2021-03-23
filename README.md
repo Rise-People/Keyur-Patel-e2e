@@ -7,7 +7,7 @@ Step 2: Installing Cypress for Mac/Windows
          (/npm install cypress —save -dev //save -dev is to make cypress dev dependencies
          
 Step 3: Open Cypress through terminal
-        node_modules/.bin/cypress open
+        node_modules\.bin\cypress open
         
 Step 4: Install wait until plugin
         npm i -D cypress-wait-until
