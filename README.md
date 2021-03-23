@@ -12,6 +12,10 @@ Step 3: Open Cypress through terminal
 Step 4: Install wait until plugin
         npm i -D cypress-wait-until
         
-Step 5: Open Visual studio code and open cypress folder in Visual Studio code.
+Step 5: Open Visual studio code 
 
-Step 6: Under Integration Folder, click on youtube.specs.js file
+Step 6: Unzip cypress folder
+
+Step 7: Open cypress folder in Visual Studio code.
+
+Step 8: Under Integration Folder, click on youtube.specs.js file
