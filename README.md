@@ -3,8 +3,8 @@
 Step 1: Install nodejs from (nodejs.org)
 
 Step 2: Installing Cypress for Mac/Windows
-        Click on this link get started (/npm install cypress —save -dev //save -dev is to make cypress
-         dev dependencies
+        Click on this link get started "https://docs.cypress.io/guides/getting-started/installing-cypress#Binary-cache"
+         (/npm install cypress —save -dev //save -dev is to make cypress dev dependencies
          
 Step 3: Open Cypress through terminal
         node_modules/.bin/cypress open
